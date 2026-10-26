@@ -1,5 +1,4 @@
 <img width="1254" height="1254" alt="1000534342" src="https://github.com/user-attachments/assets/435b1de5-67eb-43e6-a3bb-ea65d8618f2f" />
-<img width="1254" height="1254" alt="1000536161" src="https://github.com/user-attachments/assets/488f268d-a49f-4f5c-b9b7-4ee19de438da" />
 # Suzy Launcher
 
 <p align="center">
